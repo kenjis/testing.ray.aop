@@ -1,0 +1,10 @@
+{
+    "require": {
+        "ray/aop": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
